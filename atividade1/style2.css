@@ -1,0 +1,43 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Palette+Mosaic&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Subrayada&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Palette+Mosaic&display=swap');
+.principal{
+    display: flex;
+    justify-content: center;
+}
+div{
+    padding: 50px;
+}
+/* como h1 já tem negrito como padrão, não coloquei o font-weight: bold;*/
+h1.sia{
+    font-style: italic;
+    font-size: 31px;
+    font-family: 'Major Mono Display', monospace;
+}
+p.sia{
+    font-size: 40px;
+    font-family: 'Indie Flower', cursive;
+}
+h1.taylor{
+    
+    font-style: italic;
+    font-size: 28px;
+    font-family: 'Palette Mosaic', cursive;
+}
+p.taylor{
+    font-size: 30px;
+    font-family: 'Anton', sans-serif;
+}
+h1.lee{
+    font-style: italic;
+    font-size: 25px;
+    font-family: 'Montserrat Subrayada', sans-serif;
+}
+p.lee{
+    font-size: 35px;
+    font-family: 'Palette Mosaic', cursive;
+}

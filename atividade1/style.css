@@ -1,0 +1,26 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Palette+Mosaic&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fasthand&display=swap');
+#p1{
+    font-size: 18px;
+    font-family: 'Major Mono Display', monospace;
+}
+#p2{
+    font-size: 20px;
+    font-family: 'Indie Flower', cursive;
+}
+#p3{
+    font-size: 22px;
+    font-family: 'Palette Mosaic', cursive;
+}
+#p4{
+    font-size: 28px;
+    font-family: 'Anton', sans-serif;
+}
+#p5{
+    font-size: 24px;
+    font-family: 'Fasthand', serif;
+}

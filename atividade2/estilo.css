@@ -1,0 +1,16 @@
+
+h1{
+    color: lightgreen;
+    text-transform: uppercase;
+}
+P{
+  font-style: italic;
+}
+input,textarea{
+    display: block;
+    margin-bottom: 10px;
+}
+input[type="submit"]{
+    width: 65px;
+    height: 60px;
+}
